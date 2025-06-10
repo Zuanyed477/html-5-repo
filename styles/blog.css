@@ -1,0 +1,10 @@
+nav >li{
+    margin-right: 15px;
+    color: rgba(0, 255, 255, 0.966);
+    display: inline;
+
+}
+footer{
+    text-align: center;
+    margin-top: 15px;
+}
